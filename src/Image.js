@@ -11,6 +11,7 @@ class Image extends Component {
             this.setState({imageUrl: arg})
         })
     }
+    
 
     render() { 
         return ( 
